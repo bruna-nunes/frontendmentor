@@ -8,3 +8,4 @@ O <a  href="https://www.frontendmentor.io/" target="_blank">Frontend Mentor </a>
 ### :rocket: Desafios Concluídos (até agora)
 - <a href="https://github.com/bruna-nunes/frontendmentor/tree/master/desafio-01">Order summary component</a>
 - <a href="https://github.com/bruna-nunes/frontendmentor/tree/master/desafio-02">Sunnyside Agency Landing Page</a>
+- <a href="https://github.com/bruna-nunes/frontendmentor/tree/master/desafio-03">Social media dashboard with theme switcher</a>
