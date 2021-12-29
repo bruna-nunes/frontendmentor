@@ -48,6 +48,12 @@ label {
     background-color: rgba(214, 179, 22, 0.295);
 }
 
+.label-vue {
+    color: rgb(37, 139, 12);
+    background-color: rgba(50, 168, 20, 0.274);
+}
+
+
 .btn-primary {
     margin-top: 20px;
     background-color: #9980FA;
