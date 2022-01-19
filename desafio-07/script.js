@@ -50,6 +50,7 @@ function reset(){
     result = 0;
     operation = null;
     document.getElementById("result").innerText = "";
+    document.getElementById("pre-result").innerText = "";
 }
 
 const $html = document.querySelector('html');
